@@ -1,0 +1,29 @@
+# Table of content
+
+* [概述](articles/idm/1-/gaishu.md)
+* [操作准备](articles/idm/2-/caozuo.md)
+* [用户信息管理](articles/idm/3-/xinxi.md)
+* [建模](articles/idm/4-/jianmo.md)
+* [身份维护](articles/idm/5-/weihu.md)
+* [身份同步](articles/idm/6-/tongbu.md)
+* [访问控制](articles/idm/7-/kongzhi.md)
+  * [应用系统注册](articles/idm/7-/zhuce.md)
+  * [应用访问管理](articles/idm/7-/yingyong.md)
+  * [用户映射](articles/idm/7-/yingshe.md)
+* [日志管理](articles/idm/8-/rizhi.md)
+  * [采集日志](articles/idm/8-/caiji.md)
+  * [供应日志](articles/idm/8-/gongying.md)
+  * [认证日志](articles/idm/8-/renzheng.md)
+  * [系统日志](articles/idm/8-/xitong.md)
+  * [授权日志](articles/idm/8-/shouquan.md)
+  * [邮件日志](articles/idm/8-/youjian.md)
+* [系统管理](articles/idm/9-/xitongu.md)
+  * [参数](articles/idm/9-/canshu.md)
+  * [密码策略](articles/idm/9-/mima.md)
+  * [账户策略](articles/idm/9-/zhanghu.md)
+  * [IP策略](articles/idm/9-/ip.md)
+  * [连接器管理](articles/idm/9-/lianjieqi.md)
+  
+
+
+ 
