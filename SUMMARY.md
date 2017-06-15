@@ -9,7 +9,7 @@
   * [身份维护](articles/idm/2-/weihu.md)
   * [身份同步](articles/idm/2-/tongbu.md)
 * [访问控制](articles/idm/7-/kongzhi.md)
-  * [概述](articles/idm/7-/summary.md)
+  * [概述](articles/idm/7-/control_summary.md)
   * [应用系统注册](articles/idm/7-/zhuce.md)
   * [应用访问管理](articles/idm/7-/yingyong.md)
   * [用户映射](articles/idm/7-/yingshe.md)
