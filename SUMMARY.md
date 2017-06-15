@@ -14,6 +14,7 @@
   * [应用访问管理](articles/idm/7-/yingyong.md)
   * [用户映射](articles/idm/7-/yingshe.md)
 * [日志管理](articles/idm/8-/rizhi.md)
+  * [概述](articles/idm/8-/log_summary.md)
   * [采集日志](articles/idm/8-/caiji.md)
   * [供应日志](articles/idm/8-/gongying.md)
   * [认证日志](articles/idm/8-/renzheng.md)
