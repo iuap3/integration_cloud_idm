@@ -22,6 +22,7 @@
   * [授权日志](articles/idm/8-/shouquan.md)
   * [邮件日志](articles/idm/8-/youjian.md)
 * [系统管理](articles/idm/9-/xitongu.md)
+  * [概述](articles/idm/9-/system_summary.md)
   * [参数](articles/idm/9-/canshu.md)
   * [密码策略](articles/idm/9-/mima.md)
   * [账户策略](articles/idm/9-/zhanghu.md)
