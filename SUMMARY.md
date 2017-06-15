@@ -2,6 +2,10 @@
 
 * [产品介绍](articles/idm/1-/gaishu.md)  
   * [产品概述](articles/idm/1-/summary.md)
+  * [产品优势](articles/idm/1-/advantages.md)
+  * [应用场景](articles/idm/1-/scenarios.md)
+  * [基础架构](articles/idm/1-/structure.md)
+  * [产品历程](articles/idm/1-/history.md)
   * [操作准备](articles/idm/1-/caozuo.md)
 * [用户手册](articles/idm/2-/manual.md)
   * [用户信息管理](articles/idm/2-/xinxi.md)
@@ -28,6 +32,10 @@
   * [账户策略](articles/idm/9-/zhanghu.md)
   * [IP策略](articles/idm/9-/ip.md)
   * [连接器管理](articles/idm/9-/lianjieqi.md)
+* [产品常见问题](articles/idm/10-/questions.md)
+  * [常见问题](articles/idm/10-/concerns.md)
+
+
   
 
 
