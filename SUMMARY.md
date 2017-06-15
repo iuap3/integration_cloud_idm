@@ -1,7 +1,8 @@
 # Table of content
 
-* [概述](articles/idm/1-/gaishu.md)
-* [操作准备](articles/idm/2-/caozuo.md)
+* [产品介绍](articles/idm/1-/gaishu.md)  
+  * [产品概述](articles/idm/1-/gaishu.md)
+  * [操作准备](articles/idm/2-/caozuo.md)
 * [用户信息管理](articles/idm/3-/xinxi.md)
 * [建模](articles/idm/4-/jianmo.md)
 * [身份维护](articles/idm/5-/weihu.md)
