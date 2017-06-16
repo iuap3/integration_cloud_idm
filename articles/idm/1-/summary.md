@@ -16,9 +16,7 @@ UAP IdM V2.0提供的内容包括：
 
 4）日志审计。
 
-![](/articles/idm/1-/images/image1.png)
 
-图：身份管理架构图
 
 ## 名词解释
 
