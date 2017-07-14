@@ -34,6 +34,19 @@
 
 图：修改参数
 
+删除
+
+在参数中选择某一行，单击右侧![](/articles/idm/2-/images/image7.png) 删除按钮，可删除当前参数值。
+
+![](/articles/idm/5-/images/image150.png)
+
+
+
+
+
+
+
+
 
 
 
