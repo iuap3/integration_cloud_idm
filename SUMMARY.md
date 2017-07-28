@@ -1,4 +1,4 @@
-# Table of content
+# 云IDM
 
 * [产品介绍](articles/idm/1-/gaishu.md)  
   * [产品概述](articles/idm/1-/summary.md)
