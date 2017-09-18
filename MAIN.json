@@ -1,0 +1,32 @@
+{ 
+ "title": "云IDM", 
+ "desc": "身份管理不仅仅把用户管理从应用程序内部的访问策略中分离出来，管理企业统一的用户身份信息，分配用
+
+户资源访问权限，进行访问控制，单点登录，向外提供用户身份认证服务，同时，做好安全审计，使得用户身份信息、
+
+授权信息、身份认证和访问控制机制规范化、标准化，真正做到4A（账户Account、认证Authentication、授权
+
+Authorization、审计Audit）统一，全面控制企业安全风险。", 
+ "list": [ 
+ { 
+ "title": "用户信息管理", 
+ "link": "#/md-build/integration_cloud_idm/articles/idm/2-/xinxi.md", 
+ "desc": "对用户申请的信息进行编辑和删除操作" 
+ }, 
+ { 
+ "title": "访问控制", 
+ "link": "#/md-build/integration_cloud_idm/articles/idm/7-/control_summary.md", 
+ "desc": "应用系统访问控制是对与IdM系统进行同步的业务系统的注册、访问等权限的设置" 
+ }, 
+ { 
+ "title": "日志管理", 
+ "link": "#/md-build/integration_cloud_idm/articles/idm/8-/log_summary.md", 
+ "desc": "讲解了日志管理的功能" 
+ }, 
+ { 
+ "title": "系统管理", 
+ "link": "#/md-build/integration_cloud_idm/articles/idm/9-/system_summary.md", 
+ "desc": "系统管理是对选择的参数、密码策略、账户策略、IP策略的规则制定，以及连接器的管理等" 
+ } 
+ ] 
+ } 
